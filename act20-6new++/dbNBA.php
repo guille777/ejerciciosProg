@@ -64,7 +64,7 @@ public function getEquipos(){
     }
   }
 
-//adjunto funcion que trabaja Alejandro Ajenjo para ver todas las alternativas y estructuras de control, para ir actualizando y trabajando:
+//adjunto funcion que trabaja un compañero de clase para ver todas las alternativas y estructuras de control, para ir actualizando y trabajando:
 
 // public function mostrarPartidosDos($equipo_local,$equipo_visitante,$temporada1_select){
 //
